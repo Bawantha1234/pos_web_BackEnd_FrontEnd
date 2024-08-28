@@ -1,0 +1,25 @@
+nav{
+    background-color: #232358;
+}
+#navbarSupportedContent>ul>li>a{
+    color: #dfe4ea;
+}
+nav>div>a>{
+    text-decoration-color: #dfe4ea;
+}
+body{
+    background-color: #393978;
+}
+
+.container-fluid{
+    border-radius:8px ;
+}
+h6{
+    color: #dfe4ea;
+}
+h2{
+    color:#dfe4ea;
+}
+#container-fluid{
+    border-radius: 20px;
+}
