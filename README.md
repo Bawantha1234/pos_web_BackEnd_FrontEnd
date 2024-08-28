@@ -1,6 +1,6 @@
-#Pos API documentation
+Pos API documentation
 
-#base URL: http://localhost:8080/pos_webBack
+Base URL: http://localhost:8080/pos_webBack
 
 Overview
 
