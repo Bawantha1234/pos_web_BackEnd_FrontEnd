@@ -18,19 +18,19 @@ Endpoints
 
             [
               {
-                "orderId": "O001",
-                "customerId": "C001",
-                "customerName": "John Doe",
+                "orderId": "O00-001",
+                "customerId": "C00-001",
+                "customerName": "Bawantha",
                 "items": [
                   {
-                    "itemId": "I001",
+                    "itemId": "I00-001",
                     "itemName": "Item 1",
                     "quantity": 2,
-                    "price": 500.00
+                    "price": 580.00
                   }
                 ],
                 "total": 1000.00,
-                "date": "2024-08-25"
+                "date": "2024-08-28"
               },
               ...
             ]
